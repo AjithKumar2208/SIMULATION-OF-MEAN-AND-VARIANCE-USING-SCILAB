@@ -88,8 +88,14 @@ Output :
 Calculation:
 
 ![WhatsApp Image 2025-11-04 at 21 43 57_73ce2515](https://github.com/user-attachments/assets/3718e3cf-b2c5-499f-9d1e-ceb4ad32fd5a)
+
+
 ![WhatsApp Image 2025-11-04 at 21 43 58_42d86bb7](https://github.com/user-attachments/assets/22c7ff1c-24d3-444c-b3a1-f4e035ac2464)
+
+
 ![WhatsApp Image 2025-11-04 at 21 43 59_840a16cd](https://github.com/user-attachments/assets/92bff9cb-6a22-4f6f-8c11-999b2e44cb91)
+
+
 ![WhatsApp Image 2025-11-04 at 21 43 59_a7596dd6](https://github.com/user-attachments/assets/99e8ab81-dd5a-470b-b050-5b7325b047c0)
 
 
