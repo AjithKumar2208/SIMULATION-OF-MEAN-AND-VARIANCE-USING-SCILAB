@@ -87,20 +87,17 @@ Output :
 
 Calculation:
 
-![WhatsApp Image 2025-11-04 at 21 43 57_73ce2515](https://github.com/user-attachments/assets/3718e3cf-b2c5-499f-9d1e-ceb4ad32fd5a)
+<img width="891" height="1195" alt="image" src="https://github.com/user-attachments/assets/0e201e3f-ca09-4bfc-820e-bc655be7b1f8" />
 
+<img width="784" height="1009" alt="image" src="https://github.com/user-attachments/assets/3ba5bfe9-4e19-4f49-ba4d-551755de2562" />
 
-![WhatsApp Image 2025-11-04 at 21 43 58_42d86bb7](https://github.com/user-attachments/assets/22c7ff1c-24d3-444c-b3a1-f4e035ac2464)
+<img width="768" height="276" alt="image" src="https://github.com/user-attachments/assets/d76bf193-92a4-466a-b805-88ef477162a9" />
 
-
-![WhatsApp Image 2025-11-04 at 21 43 59_840a16cd](https://github.com/user-attachments/assets/92bff9cb-6a22-4f6f-8c11-999b2e44cb91)
-
-
-![WhatsApp Image 2025-11-04 at 21 43 59_a7596dd6](https://github.com/user-attachments/assets/99e8ab81-dd5a-470b-b050-5b7325b047c0)
+<img width="940" height="1089" alt="image" src="https://github.com/user-attachments/assets/8e68cbef-e553-4a4f-96bd-ffca9cb5485c" />
 
 
 ---
 
 Result
 
-The mean and variance of the given data or signal are successfully calculated and displayed using Scilab. The simulation shows that the mean represents the average or central value of the dataset, while the variance indicates the degree of spread of the data around the mean. These results help in understanding the statistical characteristics and variability of the simulated signal or random data.
+Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
